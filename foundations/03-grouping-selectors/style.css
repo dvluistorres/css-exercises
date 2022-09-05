@@ -1,0 +1,14 @@
+/* Style.css*/
+.one{
+    background-color: black;
+    color: white;
+}
+
+.two{
+    background-color: yellow;
+}
+.one,
+.two{
+    font-size: 28px;
+    font-family: "Tex Gyre Heros","times new roman",sans-serif;
+}
